@@ -2,19 +2,24 @@
 
 # 👋 Hey, I'm Bülbül
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=850&lines=Low-Level+Developer;C+%2F+C%2B%2B+Developer;Reverse+Engineering;Windows+Internals;Security+Research;System+Programming" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=700&lines=Low-Level+Developer;C+%2F+C%2B%2B+Developer;Reverse+Engineering;Windows+Internals;Security+Research;System+Programming"
+  alt="Typing SVG"
+/>
 
-<br>
+<br><br>
 
-<a href="https://github.com/bulbul6295">
-  <img src="https://img.shields.io/github/followers/bulbul6295?style=for-the-badge&logo=github&label=Followers" />
+<a href="https://github.com/bulbul6295?tab=followers">
+  <img src="https://img.shields.io/github/followers/bulbul6295?style=for-the-badge&logo=github&label=Followers" alt="Followers">
 </a>
 
 <a href="https://github.com/bulbul6295?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-View-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=bulbul6295&style=for-the-badge&label=Profile+Views" />
+<a href="https://github.com/bulbul6295">
+  <img src="https://img.shields.io/github/stars/bulbul6295?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars" alt="Stars">
+</a>
 
 </div>
 
